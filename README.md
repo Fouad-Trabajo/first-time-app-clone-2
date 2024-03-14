@@ -1,4 +1,5 @@
 # Proyecto: App abierta por primera vez
+Supongo que esto se estará añadiendo a mi repositorio clonado directamente
 
 App que muestra distintos mensajes si es la primera vez que se abre o si ya se ha abierto 5 veces.
 
